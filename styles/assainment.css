@@ -175,6 +175,82 @@ margin: 0 auto;
             background-color: #3f454584;
            border-radius: 24px;
            align-items: center;}
-         
 
-            
+           /* donate section style */
+            .donate-section {max-width: 1280px;
+                margin-top: 80px;
+                
+            height: 560px;
+           }
+
+           .donate-titel{text-align: center;}
+
+         .donate-continar{
+           
+         
+           }
+            .donate-box{display: flex;
+                justify-content: space-evenly;}
+
+            .box-one{padding: 40px;
+                    background-color: rgb(220, 235, 248);
+                border-radius:16px;
+                font-size: 40px;
+            font-weight: bold;}
+
+            .box-two{padding: 40px;
+                background-color: rgb(134, 159, 160);
+            border-radius:16px;
+            font-size: 40px;
+        font-weight: bold;}
+
+        .box-three{padding: 40px;
+            background-color: rgb(183, 153, 186);
+        border-radius:16px;
+        font-size: 40px;
+    font-weight: bold;}
+
+    .box-forth{padding: 40px;
+        background-color: rgb(134, 159, 160);
+    border-radius:16px;
+    font-size: 40px;
+font-weight: bold;}
+
+        .box-one:hover{color: wheat;
+                    background-color: #006A50;}
+        .box-two:hover{background-color: chocolate;}
+
+        .box-three:hover{background-color:steelblue;}
+
+        .box-forth:hover{background-color:goldenrod;}
+           
+
+            /* donate text and button aria style */
+            .donate-text-button{text-align: center;
+            margin-top: 32px;
+            }
+             .donate-amount{margin-bottom: 32px;
+                padding: 22px 422px;
+                font-size: 24px;
+            border: none;
+            background-color: rgba(235, 201, 213, 0.767);
+            border-radius: 8px;}
+
+
+            /* subscriber-section style */
+
+            .subscriber-section{
+                                max-width: 1280px;
+                                height: 395px;
+                                margin: 0 auto;
+                                background-color:#006a5065 ;
+                                border-radius: 24px;
+                                margin-top: 80px;
+            }
+
+            .subscriber-continar{
+                                align-items: center;
+            }
+            .subscriber-titel{
+                                text-align: center;
+            }
