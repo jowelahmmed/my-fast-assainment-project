@@ -119,8 +119,62 @@
                         background-image: url(../assets/quote-bg.png);
                     background-repeat: no-repeat;
                        align-content: center;
+                     
                    }
 
 
                 .yunus-continar{padding:48px 24px ;
                     align-items: center;}
+
+     /* resent news section style */
+
+     .news-section{max-width: 1280px;
+    height: 48px; 
+margin: 0 auto;
+    text-align: left;}
+
+/* setallite section style  */
+
+.setallite-section{max-width: 1280px;
+                height: 480px;
+                margin:0 auto;
+                background-color: #C6E4D6;
+               border-radius: 24px;
+               align-items: center;
+                margin-top: 150px;}
+
+.setallite-continar{display: flex; 
+                    padding: 48px;
+                  
+                    align-items: center;
+                gap: 32px;
+            }
+
+.setallite-image img{width: 408px;
+            height: 306px;
+        border-radius: 24px;
+    }
+    .time-continar{display: flex;
+            gap:12px;}
+
+    .setallite-section-two{margin-top:24px;
+    
+        max-width: 1280px;
+        height: 480px;
+        margin:0 auto;
+        background-color: #e9f0f0;
+       border-radius: 24px;
+       align-items: center;
+         }
+
+         .setallite-section-three{margin-top:24px;
+    
+            max-width: 1280px;
+            height: 480px;
+            margin:0 auto;
+            background-color: #3f454584;
+           border-radius: 24px;
+           align-items: center;}
+         
+
+            
